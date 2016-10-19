@@ -1,0 +1,8 @@
+Order in Excel is:
+
+data 
+log2
+log10
+merge sort 
+heap sort 
+counting sort
